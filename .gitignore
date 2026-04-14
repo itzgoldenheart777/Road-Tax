@@ -1,0 +1,7 @@
+node_modules/
+build/
+.env.local
+.env
+receipts/
+*.png
+!public/*.png
